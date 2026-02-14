@@ -151,5 +151,8 @@
     <td><img src="Wallpapers/sky.png" width="400"/></td>
     <td><img src="Wallpapers/makima.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/berserk.png" width="400"/></td>
+  </tr>
 </table>
 
