@@ -169,7 +169,7 @@
   <tr>
     <td><img src="Wallpapers/cantarella.png" width="400"/></td>
     <td><img src="Wallpapers/retro.png" width="400"/></td>
-    <td><img src="Wallpapers/.png" width="400"/></td>
+    <td><img src="Wallpapers/tori-gate.png" width="400"/></td>
   </tr>
 </table>
 
