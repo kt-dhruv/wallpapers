@@ -172,7 +172,7 @@
     <td><img src="Wallpapers/tori-gate.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="wallpapers/pink_trees.png" width="400"/></td>
+    <td><img src="Wallpapers/pink_trees.png" width="400"/></td>
   </tr>
 </table>
 
