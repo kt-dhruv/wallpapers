@@ -182,7 +182,7 @@
     <td><img src="Wallpapers/minimal_1.png" width="400"/></td>
   </tr>
    <tr>
-    <td><img src="Wallpapers/anim_2.png" width="400"/></td>
+    <td><img src="Wallpapers/anime_2.png" width="400"/></td>
     <td><img src="Wallpapers/anime_skull_girl.png" width="400"/></td>
     <td><img src="Wallpapers/cat_girl.png" width="400"/></td>
   </tr>
