@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><img src="Wallpapers/007.png" width="400"/></td>
-    <td><img src="Wallpapers/008.jpg" width="400"/></td>
+    <td><img src="Wallpapers/girl-teacup.jpg" width="400"/></td>
     <td><img src="Wallpapers/background.png" width="400"/></td>
   </tr>
   <tr>
