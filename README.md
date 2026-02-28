@@ -193,6 +193,7 @@
   </tr>
    <tr>
     <td><img src="Wallpapers/dragonfish.png" width="400"/></td>
+    <td><img src="Wallpapers/cat-on-bench.png" width="400"/></td>
   </tr>
 </table>
 
