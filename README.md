@@ -2,13 +2,13 @@
 
 <table>
   <tr>
-    <td><img src="Wallpapers/001.jpg" width="400"/></td>
-    <td><img src="Wallpapers/002.png" width="400"/></td>
-    <td><img src="Wallpapers/003.jpeg" width="400"/></td>
+    <td><img src="walls/001.jpg" width="400"/></td>
+    <td><img src="walls/002.png" width="400"/></td>
+    <td><img src="walls/003.jpeg" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Wallpapers/004.png" width="400"/></td>
-    <td><img src="Wallpapers/005.png" width="400"/></td>
+    <td><img src="walls/004.png" width="400"/></td>
+    <td><img src="walls/005.png" width="400"/></td>
     <td><img src="Wallpapers/006.png" width="400"/></td>
   </tr>
   <tr>
