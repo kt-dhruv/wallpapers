@@ -198,6 +198,8 @@
   </tr>
   <tr>
     <td><img src="walls/red-moon-with-plane.png" width="400"/></td>
+    <td><img src="walls/red-sunset.png" width="400"/></td>
+    <td><img src="walls/waves-kanagawa.png" width="400"/></td>
   </tr>
 </table>
 
