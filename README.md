@@ -194,12 +194,16 @@
    <tr>
     <td><img src="walls/dragonfish.png" width="400"/></td>
     <td><img src="walls/cat-on-bench.png" width="400"/></td>
-     <td><img src="walls/retro-2.png" width="400"/></td>
+    <td><img src="walls/retro-2.png" width="400"/></td>
   </tr>
   <tr>
     <td><img src="walls/red-moon-with-plane.png" width="400"/></td>
     <td><img src="walls/red-sunset.png" width="400"/></td>
     <td><img src="walls/waves-kanagawa.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="walls/tokyo-street-2.png" width="400"/></td>
+    <td><img src="walls/nier-red.png" width="400"/></td>
   </tr>
 </table>
 
